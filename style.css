@@ -979,13 +979,18 @@ main {
    }
 
    .feature-image {
+      padding-left: 20px !important;
+      padding-right: 20px !important;
+   }
+
+   .hero-image {
+      width: 100%;
       padding-left: 20px;
       padding-right: 20px;
    }
 
-   .hero-image {
-      padding-left: 20px;
-      padding-right: 20px;
+   .hero-image-wrapper {
+      max-width: min(260px, calc(100% - 40px));
    }
 
    .feature-copy,
