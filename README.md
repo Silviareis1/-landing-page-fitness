@@ -8,23 +8,13 @@ O projeto foi desenvolvido com HTML5 e CSS3, aplicando boas práticas de respons
 
 ## 📸 Preview
 
-> Adicione aqui uma captura de tela do projeto.
-
-```html
-<img src="images/preview.png" alt="SR.Dev Fitness" width="800">
-```
+<img src="images/preview.png" alt="SR.Dev Fitness" width="800" />
 
 ---
 
 ## 🚀 Badges
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
-![Responsive](https://img.shields.io/badge/Responsive-Mobile%20First-success?style=for-the-badge)
-
-![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white) ![Responsive](https://img.shields.io/badge/Responsive-Mobile%20First-success?style=for-the-badge) ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge)
 
 ---
 
