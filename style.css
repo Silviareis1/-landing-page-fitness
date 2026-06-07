@@ -383,6 +383,18 @@ a {
    box-shadow: 0 8px 20px rgba(124, 58, 237, 0.25);
 }
 
+.footer-credit {
+   margin-top: 12px;
+   font-size: 0.9rem;
+   color: #6b7280;
+   text-align: center;
+}
+
+.footer-credit strong {
+   color: #7c3aed;
+   font-weight: 600;
+}
+
 @media (max-width: 1024px) {
    .hero-grid {
       grid-template-columns: 1fr;
