@@ -360,19 +360,27 @@ a {
 
 .footer-links {
    display: flex;
-   gap: 20px;
-   flex-wrap: wrap;
+   gap: 16px;
+   align-items: center;
 }
 
 .footer-links a {
-   color: #06b6d4;
-   font-weight: 500;
-   transition: color 0.3s ease;
+   width: 42px;
+   height: 42px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   border-radius: 50%;
+   background: linear-gradient(135deg, #7c3aed 0%, #6366f1 55%, #06b6d4 100%);
+   color: #ffffff;
+   font-size: 1rem;
+   transition: all 0.3s ease;
 }
 
 .footer-links a:hover,
 .footer-links a:focus-visible {
-   color: #7c3aed;
+   transform: translateY(-3px) scale(1.05);
+   box-shadow: 0 8px 20px rgba(124, 58, 237, 0.25);
 }
 
 @media (max-width: 1024px) {
